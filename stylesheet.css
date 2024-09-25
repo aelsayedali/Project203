@@ -17,7 +17,24 @@ html {
 }
 
 .homebground {
-    background-image: url(img/homebground.jpg);
-    background-size: 100%;
+    background-image: url('./img/homebground.avif');
+    background-size: 100% 100%;
     background-repeat: no-repeat;
+
+}
+
+.homecover {
+    background-color: rgba(163, 163, 163, 0.5);
+}
+
+.showRoom {
+    width: 150px;
+    height: 50px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+    color: rgb(149, 148, 148);
+}
+
+.test {
+    border: 2px solid red;
 }
