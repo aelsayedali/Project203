@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* section 1 style */
+.logo {
+    padding-left: 2rem;
+}
+
+.login {
+    padding-right: 2rem;
+}
+
+.homebground {
+    background-image: url(img/homebground.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
